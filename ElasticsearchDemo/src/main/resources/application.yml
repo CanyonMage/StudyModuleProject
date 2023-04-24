@@ -1,0 +1,6 @@
+server:
+  port: 8099
+---
+easy-es:
+  enable: true
+  address: 192.168.0.25:9200
